@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73f80a37-9422-4b7b-bb87-dfd61757f2ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/djangotutorial/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangotutorial/polls/templates/polls/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangotutorial/polls/templates/polls/results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangotutorial/polls/static/polls/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangotutorial/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangotutorial/polls/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangotutorial/polls/templates/admin/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangotutorial/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangotutorial/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangotutorial/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/mysite/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangotutorial/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangotutorial/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/polls/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangotutorial/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangotutorial/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/polls/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangotutorial/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangotutorial/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/polls/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangotutorial/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangotutorial/polls/templates/polls/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +35,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lukaklanjsek"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lukaklanjsek&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lukaklanjsek/web-projects.git",
-    "accountId": "39fc9a5e-9802-40af-a081-7a2e6565e662"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lukaklanjsek/web-projects.git&quot;,
+    &quot;accountId&quot;: &quot;39fc9a5e-9802-40af-a081-7a2e6565e662&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -60,15 +55,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/myProgramming/PythonProject1/djangotutorial/polls/templates/admin"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myProgramming\PythonProject1\djangotutorial\polls\templates\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myProgramming\PythonProject1\djangotutorial\polls\templates\admin" />
+      <recent name="D:\myProgramming\PythonProject1\djangotutorial\polls\static\polls\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
